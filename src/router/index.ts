@@ -13,7 +13,7 @@ const router = createRouter({
     { path: '/v-if', component: VIfView },
     { path: '/v-show', component: VShowView },
     { path: '/v-for', component: VForView },
-    { path: '/v-key', component: VKeyView },
+    { path: '/v-bind:key', component: VKeyView },
   ],
 })
 
